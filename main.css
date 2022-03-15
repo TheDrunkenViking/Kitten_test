@@ -12,6 +12,7 @@ ul{
     flex-direction: row;
     justify-content: space-around;
     list-style: none;
+    height: 4em;
 }
 .article_pic{
     float: left;
