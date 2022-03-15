@@ -6,7 +6,7 @@ h1{
     text-align: center;
     background-color: #fefefe;
 }
-li{
+ul{
     background-color: blue;
     display: flex;
     flex-direction: row;
