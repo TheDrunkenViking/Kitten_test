@@ -30,7 +30,7 @@ figcaption{
     text-align: center;
 }
 .gallery{
-    max-width: 30%;
+    max-width: 20%;
     display: grid;
     grid-template-columns: auto auto auto;
     /* grid-template-rows: 30% 30% 30% ; */
