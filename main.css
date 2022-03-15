@@ -30,8 +30,9 @@ figcaption{
     text-align: center;
 }
 .gallery{
+    max-width: 30%;
     display: grid;
-    grid-template-columns: 20% 20% 20%;
+    grid-template-columns: auto auto auto;
     /* grid-template-rows: 30% 30% 30% ; */
     gap: 1em;
 }
