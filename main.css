@@ -6,6 +6,9 @@ h1{
     text-align: center;
     background-color: #fefefe;
 }
+ul{
+    display: inline-block;
+}
 .article_pic{
     float: left;
 }
