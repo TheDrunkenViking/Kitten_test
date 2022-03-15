@@ -24,6 +24,7 @@ a{
 }
 figure{
     margin: 0;
+    align-content: center;
 }
 figcaption{
     padding: 1em 0em 1em 0em;
