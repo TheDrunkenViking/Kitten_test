@@ -29,6 +29,10 @@ figcaption{
     padding: 1em 0em 1em 0em;
     text-align: center;
 }
+.gallery{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
 footer{
     background-color: aqua;
     text-align: center;
