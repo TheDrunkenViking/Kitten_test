@@ -35,7 +35,7 @@ figcaption{
     gap: 1em;
 }
 h2{
-    float: right;
+    display: inline-block;
 }
 img{
     max-width: 100%;
