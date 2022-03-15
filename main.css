@@ -34,6 +34,9 @@ figcaption{
     grid-template-columns: auto auto auto;
     gap: 1em;
 }
+h2{
+    float: right;
+}
 img{
     max-width: 100%;
     float: left;
