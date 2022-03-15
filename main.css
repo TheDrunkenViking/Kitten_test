@@ -24,3 +24,6 @@ a{
 figure{
     margin: 0;
 }
+figcaption{
+    padding: 1em 0em 1em 0em;
+}
