@@ -6,10 +6,43 @@ h1{
     text-align: center;
     background-color: #fefefe;
 }
-li{
-    background-color: blue;
+ul{
+    background-color: lightgrey;
     display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    list-style: none;
+    padding: 2em;
+    margin: 0;
+}
+a{
+    margin: 2em;
+    text-decoration: none;
 }
 .article_pic{
     float: left;
+}
+figure{
+    margin: 0 25% 0 25%;
+}
+figcaption{
+    padding: 1em 0em 1em 0em;
+    text-align: center;
+}
+.gallery{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 1em;
+}
+h2{
+    display: inline-block;
+}
+img{
+    max-width: 100%;
+    float: left;
+}
+footer{
+    background-color: aqua;
+    text-align: center;
+    padding: 2em;
 }
