@@ -32,4 +32,5 @@ figcaption{
 footer{
     background-color: aqua;
     text-align: center;
+    padding: 2em;
 }
