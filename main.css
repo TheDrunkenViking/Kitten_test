@@ -21,3 +21,6 @@ a{
 .article_pic{
     float: left;
 }
+figure{
+    margin: 0;
+}
