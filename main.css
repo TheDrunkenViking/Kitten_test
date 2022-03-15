@@ -23,7 +23,7 @@ a{
     float: left;
 }
 figure{
-    margin: auto;
+    margin: 0 25% 0 25%;
 }
 figcaption{
     padding: 1em 0em 1em 0em;
