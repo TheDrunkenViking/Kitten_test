@@ -14,6 +14,9 @@ ul{
     list-style: none;
     height: 4em;
 }
+a{
+    padding: 2em;
+}
 .article_pic{
     float: left;
 }
