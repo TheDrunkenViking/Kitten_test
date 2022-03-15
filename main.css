@@ -8,7 +8,8 @@ h1{
 }
 li{
     background-color: blue;
-    display: inline-block;
+    display: flex;
+    flex-direction: row;
 }
 .article_pic{
     float: left;
