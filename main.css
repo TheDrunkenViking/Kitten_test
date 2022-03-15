@@ -16,6 +16,7 @@ ul{
 }
 a{
     margin: 2em;
+    text-decoration: none;
 }
 .article_pic{
     float: left;
