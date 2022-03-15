@@ -10,8 +10,10 @@ ul{
     background-color: blue;
     display: flex;
     flex-direction: row;
-    text-decoration: none;
     justify-content: space-around;
+}
+li{
+    text-decoration: none;
 }
 .article_pic{
     float: left;
