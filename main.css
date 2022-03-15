@@ -6,3 +6,6 @@ h1{
     text-align: center;
     background-color: #fefefe;
 }
+.article_pic{
+    float: left;
+}
