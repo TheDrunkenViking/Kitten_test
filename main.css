@@ -31,8 +31,8 @@ figcaption{
 }
 .gallery{
     display: grid;
-    /* grid-template-columns: 30% 30% 30%; */
-    grid-template-rows: 30% 30% 30% ;
+    grid-template-columns: 30% 30% 30%;
+    /* grid-template-rows: 30% 30% 30% ; */
     gap: 1em;
 }
 footer{
